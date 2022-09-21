@@ -1,0 +1,26 @@
+body{
+    background-image: url(mapa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.H1 {
+    color: whitesmoke;
+    font-size: 60px;
+    background-image:url(busola.png);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.H2 {
+    background-color: white;
+    opacity: 0.7;
+    background-image:url(kompas.jpg);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    padding-left: 30px;
+}
+p {
+    color: whitesmoke;
+    background-image: url(deska.png);
+    padding: 20px;
+}
